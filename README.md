@@ -1,5 +1,7 @@
 # phoneverify in react native using firebase
 
+# ![Image description](/assets/s.jpg)
+
 ## Initialize a new Expo app
 create a project and navigate to it.
 ```bash
